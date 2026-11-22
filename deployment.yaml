@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: enes123454321/mijn-website
+        image: enes123454321/mijn-website:v1
    
 
 ---
