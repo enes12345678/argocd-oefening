@@ -32,5 +32,5 @@ spec:
     app: nginx
   ports:
     - protocol: TCP
-      port: 9376
+      port: 9375
       targetPort: 80
